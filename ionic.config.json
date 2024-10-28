@@ -1,0 +1,12 @@
+{
+  "defaultProject": "TEST",
+  "projects": {
+    "TEST": {
+      "name": "Test",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular"
+    }
+  }
+}

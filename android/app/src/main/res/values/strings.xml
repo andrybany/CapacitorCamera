@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Test Capacitor Camera</string>
+    <string name="title_activity_main">Test Capacitor Camera</string>
+    <string name="package_name">test.capacitor.camera</string>
+    <string name="custom_url_scheme">test.capacitor.camera</string>
+</resources>
